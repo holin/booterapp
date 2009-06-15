@@ -1,0 +1,15 @@
+.DS_Store
+log/*.*
+tmp/**/*
+tmp/*
+config/database.yml
+db/schema.rb
+db/sphinx/*
+public/tmp*
+public/uploads
+public/static/
+public/static/*
+public/system/
+nbproject/
+#test/fixtures/
+#test/fixtures/*.yml
